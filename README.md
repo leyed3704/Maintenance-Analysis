@@ -26,4 +26,3 @@ https://docs.google.com/spreadsheets/d/1CAT5kcz5HGAEOz4lmiokEmLFbbs6cQQI/edit?us
 - A few truck brands are driving most of the problems — especially Peterbilt and Freightliner across downtime and labor.
 - Cost control should focus on parts management — since parts make up the bulk of expenses.
 - Maintenance strategy may need review — rising costs and concentrated downtime suggest inefficiencies or aging assets.
-- 
